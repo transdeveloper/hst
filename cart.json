@@ -1,0 +1,58 @@
+{
+  "5410126676037": {
+    "barcode": "5410126676037",
+    "quantity": 1,
+    "name": "Biscoff",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/541/012/667/6037/6.400.jpg"
+  },
+  "3175460001625": {
+    "barcode": "3175460001625",
+    "quantity": 4,
+    "name": "Boursin portions garlic & herbs",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/317/546/000/1625/13.400.jpg"
+  },
+  "5000157078810": {
+    "barcode": "5000157078810",
+    "quantity": 2,
+    "name": "Beans in a rich tomato sauce",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/500/015/707/8810/1.400.jpg"
+  },
+  "7290000066141": {
+    "barcode": "7290000066141",
+    "quantity": 1,
+    "name": "Bisli BBQ",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/729/000/006/6141/1.400.jpg"
+  },
+  "7290001302279": {
+    "barcode": "7290001302279",
+    "quantity": 2,
+    "name": "Bamba",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/729/000/130/2279/2.400.jpg"
+  },
+  "00422703": {
+    "barcode": "00422703",
+    "quantity": 1,
+    "name": "2 garlic bread",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/000/042/2703/4.400.jpg"
+  },
+  "00351546": {
+    "barcode": "00351546",
+    "quantity": 1,
+    "name": "Salted English Butter",
+    "brand": "",
+    "packQuantity": "",
+    "imageUrl": "https://openfoodfacts-images.s3.eu-west-3.amazonaws.com/data/000/000/035/1546/6.400.jpg"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "CRS-HSW",
+  "version": "1.0.0",
+  "description": "Shopping list shite to use internally at home.",
+  "author": {
+    "name": "Sophia C."
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.4.0",
+    "ws": "^8.21.0"
+  }
+}
